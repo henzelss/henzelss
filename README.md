@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">HI IM A PROGRAMMER</h1>
+<h1 align="left">HI IM not a PROGRAMMER</h1>
 
 ###
 
