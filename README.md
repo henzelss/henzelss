@@ -4,7 +4,7 @@ DevOps Engineer focused on cloud infrastructure, CI/CD automation, and Kubernete
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=henzelss&label=Profile%20views&color=0e75b6&style=flat" alt="henzelss" />
+  <img src="https://img.shields.io/badge/Profile%20Views-100k%2B-0e75b6?style=flat" alt="profile views" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
